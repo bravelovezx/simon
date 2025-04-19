@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 蓝色背景圆形 -->
+  <circle cx="50" cy="50" r="48" fill="#4285f4" />
+  
+  <!-- 简单的用户图标 -->
+  <circle cx="50" cy="40" r="15" fill="#ffffff" />
+  <path d="M25,85 C25,65 75,65 75,85" fill="#ffffff" />
+</svg>

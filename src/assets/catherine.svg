@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 背景圆形 -->
+  <circle cx="50" cy="50" r="48" fill="#f0f0f0" />
+  
+  <!-- 头发 -->
+  <path d="M50,10 C30,10 20,30 20,50 C20,65 30,85 50,85 C70,85 80,65 80,50 C80,30 70,10 50,10 Z" fill="#8d6e63" />
+  
+  <!-- 脸部 -->
+  <ellipse cx="50" cy="50" rx="25" ry="30" fill="#ffccb3" />
+  
+  <!-- 眼睛 -->
+  <ellipse cx="40" cy="45" rx="3" ry="4" fill="#5d4037" />
+  <ellipse cx="60" cy="45" rx="3" ry="4" fill="#5d4037" />
+  
+  <!-- 眉毛 -->
+  <path d="M35,38 Q40,35 45,38" fill="none" stroke="#5d4037" stroke-width="1.5" />
+  <path d="M55,38 Q60,35 65,38" fill="none" stroke="#5d4037" stroke-width="1.5" />
+  
+  <!-- 嘴巴 -->
+  <path d="M43,60 Q50,65 57,60" fill="none" stroke="#d7827e" stroke-width="2" />
+  
+  <!-- 头发前额 -->
+  <path d="M30,30 Q50,20 70,30" fill="#8d6e63" />
+</svg>
